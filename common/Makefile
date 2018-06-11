@@ -1,22 +1,25 @@
 SRC  := $(wildcard csd-*.adoc)
 XML  := $(patsubst %.adoc,%.xml,$(SRC))
+PDF  := $(patsubst %.adoc,%.pdf,$(SRC))
 HTML := $(patsubst %.adoc,%.html,$(SRC))
 
 SHELL := /bin/bash
 
-all: $(HTML) $(XML)
+all: $(HTML) $(XML) $(PDF)
 
 clean:
-	rm -f $(HTML) $(XML) Gemfile Gemfile.lock
+	rm -f $(HTML) $(XML) $(PDF) Gemfile Gemfile.lock
 
 bundle:	Gemfile Gemfile.lock
 	bundle
 
 Gemfile Gemfile.lock:
-	cp ../common/$@ .
+	ln -s ../common/$@ .
 
-%.xml %.html: %.adoc bundle
-	bundle exec asciidoctor -b csd -r 'asciidoctor-csd' $< --trace
+%.xml %.html %.pdf: %.adoc bundle
+	bundle exec metanorma -t csd $<
+
+html: $(HTML)
 
 open:
 	open $(HTML)
