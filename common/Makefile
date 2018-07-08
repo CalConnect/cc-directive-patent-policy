@@ -17,7 +17,7 @@ Gemfile Gemfile.lock:
 	ln -s ../common/$@ .
 
 %.xml %.html %.pdf: %.adoc bundle
-	bundle exec metanorma -t csd $<
+	bundle exec metanorma -t csd -x xml,html,pdf $<
 
 html: $(HTML)
 
