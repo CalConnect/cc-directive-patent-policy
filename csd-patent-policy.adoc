@@ -1,47 +1,30 @@
-== CalConnect patent policy
+= CalConnect Directive: Patent policy
+:title: CalConnect Directive: Patent policy
+:docnumber: CC/DIR 10003
+:copyright-year: 2018
+:language: en
+:doctype: standard
+:edition: 1
+:status: draft
+:revdate: 2018-09-03T00:00:00Z
+:language: en
+:technical-committee: PUBLISH
+:toc:
+:stem:
 
-=== General
+:sectnums!:
 
-The CalConnect patent policy governs all standardization deliverables developed through the CalConnect standardization process.
+include::sections/00-foreword.adoc[]
+include::sections/00-intro.adoc[]
 
-The CalConnect patent policy is identical to the "`ISO/IEC/ITU common patent policy`" in content, except where:
+:sectnums:
 
-* entity names such as "`ISO`", "`IEC`", "`ITU-T`" and "`ITU-R`" were changed to "`CalConnect`";
-* deliverables and processes pertaining to those entities have been changed to their counterparts within CalConnect.
+include::sections/01-scope.adoc[]
+include::sections/02-normrefs.adoc[]
+include::sections/03-terms.adoc[]
+include::sections/04-policy.adoc[]
+include::sections/05-licensing.adoc[]
+include::sections/06-declaration.adoc[]
 
-=== Code of practice
+include::sections/99-bibliography.adoc[]
 
-The following is a "code of practice" regarding patents covering, in varying degrees, the subject matters of ITU-T Recommendations, ITU-R Recommendations, ISO deliverables and IEC deliverables (for the purpose of this document, ITU-T and ITU-R Recommendations are referred to as “Recommendations”, ISO deliverables and IEC deliverables are referred to as “Deliverables”).
-
-
-The rules of the "code of practice" are simple and straightforward. Recommendations | Deliverables are drawn up by technical and not patent experts; thus, they may not necessarily be very familiar with the complex international legal situation of intellectual property rights such as patents, etc.
-
-Recommendations | Deliverables are non-binding; their objective is to ensure compatibility of technologies and systems on a worldwide basis. To meet this objective, which is in the common interests of all those participating, it must be ensured that Recommendations | Deliverables, their applications, use, etc. are accessible to everybody.
-
-It follows, therefore, that a patent embodied fully or partly in a Recommendation | Deliverable must be accessible to everybody without undue constraints. To meet this requirement in general is the sole objective of the code of practice. The detailed arrangements arising from patents (licensing, royalties, etc.) are left to the parties concerned, as these arrangements might differ from case to case.
-
-This code of practice may be summarized as follows:
-
-=== {blank}
-
-The ITU Telecommunication Standardization Bureau (TSB), the ITU Radiocommunication Bureau (BR) and the offices of the CEOs of ISO and IEC are not in a position to give authoritative or comprehensive information about evidence, validity or scope of patents or similar rights, but it is desirable that the fullest available information should be disclosed. Therefore, any party participating in the work of ITU, ISO or IEC should, from the outset, draw the attention of the Director of ITU-TSB, the Director of ITU-BR, or the offices of the CEOs of ISO or IEC, respectively, to any known patent or to any known pending patent application, either their own or of other organizations, although ITU, ISO or IEC are unable to verify the validity of any such information.
-
-=== {blank}
-
-If a Recommendation | Deliverable is developed and such information as referred to in paragraph 1 has been disclosed, three different situations may arise:
-
-==== {blank}
-
-The patent holder is willing to negotiate licences free of charge with other parties on a nondiscriminatory basis on reasonable terms and conditions. Such negotiations are left to the parties concerned and are performed outside ITU-T/ITU-R/ISO/IEC.
-
-==== {blank}
-
-The patent holder is willing to negotiate licences with other parties on a non-discriminatory basis on reasonable terms and conditions. Such negotiations are left to the parties concerned and are performed outside ITU-T/ITU-R/ISO/IEC.
-
-==== {blank}
-
-The patent holder is not willing to comply with the provisions of either paragraph 2.1 or paragraph 2.2; in such case, the Recommendation | Deliverable shall not include provisions depending on the patent.
-
-=== {blank}
-
-Whatever case applies (2.1, 2.2 or 2.3), the patent holder has to provide a written statement to be filed at ITU-TSB, ITU-BR or the offices of the CEOs of ISO or IEC, respectively, using the appropriate "Patent Statement and Licensing Declaration" Form. This statement must not include additional provisions, conditions, or any other exclusion clauses in excess of what is provided for each case in the corresponding boxes of the form.
