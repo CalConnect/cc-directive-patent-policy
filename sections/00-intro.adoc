@@ -1,0 +1,34 @@
+
+== Introduction
+
+=== General
+
+CalConnect is committed in expanding the realm of standards
+in collaborative technologies with a focus on interoperability
+across the globe and communities of practice.
+
+As a proponent of open standards, CalConnect does not endorse
+mandatory usage of patents within CalConnect Standards.
+The CalConnect Board of Directors has decided to align
+IPR practice with major international standardization bodies
+including ISO, IEC and ITU.
+
+=== Purpose
+
+This document describes the policy of CalConnect with regards to patent
+usage within CalConnect deliverables and provides a
+"`code of practice`" that is simple and straightforward.
+
+CalConnect deliverables are drawn up by technical, not patent, experts,
+who may not be fully aware of all nuisances in the complex
+international legal situation of intellectual property rights.
+
+CalConnect deliverables are non-binding -- their objective is to ensure
+compatibility of technologies and systems on a worldwide basis.
+
+To meet this objective, which is in the common interests of all those
+participating, it must be ensured that the usage and continued
+application of CalConnect deliverables are accessible to everybody.
+
+Therefore, a patent embodied fully or partly in a CalConnect
+deliverable must be accessible to everybody without undue constraints.

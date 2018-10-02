@@ -1,0 +1,18 @@
+
+[[information-transparency]]
+== Patent information transparency policy
+
+CalConnect does not provide authoritative or comprehensive information
+about evidence, validity or scope of patents or similar rights.
+
+However, the fullest available information shall be disclosed in any CalConnect-published standard.
+
+Therefore, any party participating in the work of CalConnect shall,
+from the outset, draw the attention of the Executive Director and TCC
+of CalConnect, to any known patent or to any known pending patent
+application, either their own or of other organizations, although
+CalConnect is unable to verify the validity of any such information.
+
+In a joint deliverable developed with other standardization bodies,
+IPR requirements of all such standardization bodies who will be
+publishing the deliverable shall be satisfied.

@@ -1,0 +1,19 @@
+
+== Scope
+
+This document provides the CalConnect patent policy, which governs all
+standardization deliverables developed through the CalConnect
+standardization process.
+
+The CalConnect patent policy is identical to the <<ISOPP>> in content,
+except where:
+
+* entity names such as "`ISO`", "`IEC`", "`ITU-T`" and "`ITU-R`" were
+  changed to "`CalConnect`";
+
+* deliverables and processes pertaining to those entities have been
+  changed to their counterparts within CalConnect.
+
+Detailed arrangements arising from patents (licensing, royalties, etc.)
+are left to the parties concerned, as these arrangements might differ
+from case to case.

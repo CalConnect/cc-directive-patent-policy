@@ -1,0 +1,11 @@
+
+[bibliography]
+== Bibliography
+
+* [[[CCSTD,CC/DIR 10001]]], _CalConnect Directive: Standardization and publication_
+
+* [[[ISODIR1,ISO/IEC Directives, Part 1]]], _ISO/IEC Directives, Part 1, Procedures for the technical work_
+
+* [[[ISODIR2,ISO/IEC Directives, Part 2]]], _ISO/IEC Directives, Part 2, Principles and rules for the structure and drafting of ISO and IEC documents_
+
+* [[[ISODIR1C,ISO/IEC Directives, Part 1, Consolidated ISO Supplement]]], _ISO/IEC Directives, Part 1, Consolidated ISO Supplement, Procedures specific to ISO_

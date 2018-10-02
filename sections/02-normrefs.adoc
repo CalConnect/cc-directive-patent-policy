@@ -1,0 +1,5 @@
+
+[bibliography]
+== Normative References
+
+* [[[ISOPP,ISO/IEC/ITU common patent policy]]], _ISO/IEC/ITU common patent policy_, https://isotc.iso.org/livelink/livelink/fetch/2000/2122/3770791/Common_Policy.htm

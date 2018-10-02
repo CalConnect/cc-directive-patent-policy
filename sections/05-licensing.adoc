@@ -1,0 +1,31 @@
+
+[[licensing-requirements]]
+== Licensing requirements on patent holders
+
+[[license-free]]
+=== Situation 1: Licensing free-of-charge
+
+The patent holder is willing to negotiate licences free of charge with
+other parties on a nondiscriminatory basis on reasonable terms and
+conditions.
+
+Such negotiations are left to the parties concerned and are performed
+outside CalConnect.
+
+[[license-nd]]
+=== Situation 2: Licensing in a non-discriminatory manner
+
+The patent holder is willing to negotiate licences with other parties
+on a non-discriminatory basis on reasonable terms and conditions.
+
+Such negotiations are left to the parties concerned and are performed
+outside CalConnect.
+
+[[license-other]]
+=== Situation 3: Licensing in other manners
+
+The patent holder is not willing to comply with the provisions of
+either <<license-free>> or <<license-nd>>.
+
+In such case, the deliverable shall not include provisions that depends
+on the patent.

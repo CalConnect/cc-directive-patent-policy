@@ -1,0 +1,12 @@
+
+[[declaration]]
+== Patent declaration requirements
+
+Whatever the licensing requirements (<<licensing-requirements>>)
+are, the patent holder must provide a written statement to be
+filed at CalConnect, using the appropriate
+"`Patent Statement and Licensing Declaration`" Form.
+
+This statement must not include additional provisions, conditions, or
+any other exclusion clauses in excess of what is provided for each case
+in the corresponding boxes of the form.
