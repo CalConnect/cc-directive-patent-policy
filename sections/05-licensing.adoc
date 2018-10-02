@@ -2,6 +2,12 @@
 [[licensing-requirements]]
 == Licensing requirements on patent holders
 
+=== General
+
+If a CalConnect deliverable is developed and such information as
+referred to in <<information-transparency>> has been disclosed,
+one of the following three situations may arise.
+
 [[license-free]]
 === Situation 1: Licensing free-of-charge
 
