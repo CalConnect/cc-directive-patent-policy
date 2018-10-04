@@ -1,4 +1,4 @@
 
-[source="ISODIR1,ISODIR1C,ISODIR2,CCSTD"]
+[source="CCSTD"]
 [[terms]]
 == Terms, definitions, symbols and abbreviations
