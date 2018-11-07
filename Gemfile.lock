@@ -1,11 +1,3 @@
-GIT
-  remote: https://github.com/riboseinc/metanorma-csd
-  revision: c36dab9169b35c52ce76f6cee3b2f27af46ccefd
-  specs:
-    metanorma-csd (1.0.9)
-      isodoc (~> 0.9.6)
-      metanorma-standoc (~> 1.0.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -107,6 +99,9 @@ GEM
       ruby-xslt
       thread_safe
       uuidtools
+    metanorma-csd (1.0.9)
+      isodoc (~> 0.9.6)
+      metanorma-standoc (~> 1.0.0)
     metanorma-gb (1.0.7)
       gb-agencies (~> 0.0.1)
       isodoc (~> 0.9.1)
@@ -193,7 +188,7 @@ PLATFORMS
 DEPENDENCIES
   metanorma
   metanorma-cli
-  metanorma-csd!
+  metanorma-csd
 
 BUNDLED WITH
    1.17.1
