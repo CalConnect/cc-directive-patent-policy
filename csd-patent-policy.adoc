@@ -1,16 +1,17 @@
 = CalConnect Directive: Patent policy
 :title: CalConnect Directive: Patent policy
-:docnumber: CC/DIR 10003
+:docnumber: 10003
 :copyright-year: 2018
 :language: en
-:doctype: standard
+:doctype: directive
 :edition: 1
-:status: draft
+:status: draft-standard
 :revdate: 2018-09-03T00:00:00Z
 :language: en
 :technical-committee: PUBLISH
+:local-cache-only:
+:data-uri-image:
 :toc:
-:stem:
 
 :sectnums!:
 
