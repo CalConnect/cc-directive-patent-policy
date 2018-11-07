@@ -6,8 +6,8 @@
 :doctype: directive
 :edition: 1
 :status: draft-standard
-:revdate: 2018-09-03T00:00:00Z
-:language: en
+:revdate: 2018-11-07
+:script: Latn
 :technical-committee: PUBLISH
 :local-cache-only:
 :data-uri-image:
