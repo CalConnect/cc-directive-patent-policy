@@ -26,9 +26,7 @@ international legal situation of intellectual property rights.
 CalConnect deliverables are non-binding -- their objective is to ensure
 compatibility of technologies and systems on a worldwide basis.
 
-To meet this objective, which is in the common interests of all those
-participating, it must be ensured that the usage and continued
-application of CalConnect deliverables are accessible to everybody.
-
-Therefore, a patent embodied fully or partly in a CalConnect
-deliverable must be accessible to everybody without undue constraints.
+To ensure the applicability and accessibility of CalConnect
+deliverables, the implementation and continued usage of content within
+the deliverables must be possible to the worldwide audience without
+discrimination, including any patent embodiment in such deliverables.
