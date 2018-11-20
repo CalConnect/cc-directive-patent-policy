@@ -1,0 +1,43 @@
+Patent Holder:
+Legal Name
+Contact for license application:
+Name & Department
+Address
+
+Tel.
+Fax
+E mail
+URL (optional)
+Document type: ITU-T Rec. (*)	  ITU-R Rec. (*)	  ISO Deliverable (*)	  IEC Deliverable (*)
+(please return the form to the relevant Organization)
+
+Common text or twin text (ITU-T Rec. | ISO/IEC Deliverable (*)) (for common text or twin text, please return the form to each of the three Organizations: ITU-T, ISO, IEC)
+ISO/IEC Deliverable (*) (for ISO/IEC Deliverables, please return the form to both ISO and IEC)
+
+(*)Number
+
+(*)Title
+
+Licensing declaration:
+
+The Patent Holder believes that it holds granted and/or pending applications for Patents, the use of which would be required to implement the above document and hereby declares, in accordance with the Common Patent Policy for ITU-T/ITU-R/ISO/IEC, that (check one box only):
+
+1.	The Patent Holder is prepared to grant a Free of Charge license to an unrestricted number of applicants on a worldwide, non-discriminatory basis and under other reasonable terms and conditions to make, use, and sell implementations of the above document.
+
+Negotiations are left to the parties concerned and are performed outside the ITU-T, ITU-R, ISO or IEC.
+
+Also mark here __ if the Patent Holder's willingness to license is conditioned on Reciprocity for the above document.
+
+Also mark here __ if the Patent Holder reserves the right to license on reasonable terms and conditions (but not Free of Charge) to applicants who are only willing to license their Patent, whose use would be required to implement the above document, on reasonable terms and conditions (but not Free of Charge).
+
+
+2.	The Patent Holder is prepared to grant a license to an unrestricted number of applicants on a worldwide, non-discriminatory basis and on reasonable terms and conditions to make, use and sell implementations of the above document.
+Negotiations are left to the parties concerned and are performed outside the ITU-T, ITU-R, ISO, or IEC.
+
+Also mark here __ if the Patent Holder's willingness to license is conditioned on Reciprocity for the above document.
+
+3.	The Patent Holder is unwilling to grant licenses in accordance with provisions of either 1 or 2 above.
+In this case, the following information must be  provided to ITU, and is strongly desired by ISO and IEC, as part of this declaration:
+-	granted patent number or patent application number (if pending);
+-	an indication of which portions of the above document are affected;
+-     a description of the Patents covering the above document.
