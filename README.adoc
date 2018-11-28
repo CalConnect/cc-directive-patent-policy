@@ -1,43 +1,70 @@
-= CalConnect Conference 41 Report
+= CalConnect Directive: Patent policy
+:repo-owner: CalConnect
+:repo-name: csd-patent-policy
+
+
+This work item belongs to TC PUBLISH.
+
+image:https://travis-ci.com/CalConnect/csd-patent-policy.svg?branch=master["Build Status", link="https://travis-ci.com/CalConnect/csd-patent-policy"]
+
+This document is available in its rendered forms here:
+
+* https://CalConnect.github.io/csd-patent-policy/[CalConnect Directive: Patent policy (HTML)]
+* https://CalConnect.github.io/csd-patent-policy/csd-patent-policy.pdf[PDF]
+* https://CalConnect.github.io/csd-patent-policy/csd-patent-policy.xml[Metanorma XML]
+* https://CalConnect.github.io/csd-patent-policy/csd-patent-policy.rxl[Relaton XML (Bibliographic item)]
+
+Because of all this, there is no need to build the document on your own, but if you wish to do so, this is how it can be done:
 
 == Fetching the document
 
 [source,sh]
 ----
-git clone https://github.com/riboseinc/csd-public-documents
+git clone https://gitlab.com/CalConnect/csd-patent-policy/
 ----
 
-== Install Build Tools
+== Installing Build Tools
 
-[source,sh]
-----
-brew install ruby
-gem install bundler
-----
+See https://www.metanorma.com/overview/getting-started/
 
-== Install CSD dependencies
 
-[source,sh]
-----
-pushd common
-bundle install
-popd
-----
+== Running via Docker or locally
 
-== Enter This Directory And Build!
+If you have installed the build tools locally, and wish to run the
+locally-installed compilation tools, there is nothing further to set.
+
+If you don't want to deal with local dependencies, use the docker
+version by:
 
 [source,sh]
 ----
-pushd conference41rpt
+export METANORMA_DOCKER=1
+----
+
+The `Makefile` will automatically choose the proper command to
+execute.
+
+
+== Building The Document
+
+[source,sh]
+----
 make clean all
 ----
 
-== Open the generated HTML file
+The following outputs will be built:
+
+* CSD XML (https://github.com/calconnect/metanorma-model-csd) (`[filename].xml`)
+* HTML (`[filename].html`)
+* PDF (`[filename].pdf`)
+* Word DOC (`[filename].doc`)
+
+
+== Iterating the document
 
 [source,sh]
 ----
-make open
-# or
-open *.html
+make html
+open csd-*.html
 ----
 

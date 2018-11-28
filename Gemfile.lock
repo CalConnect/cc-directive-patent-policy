@@ -205,7 +205,6 @@ PLATFORMS
 DEPENDENCIES
   metanorma
   metanorma-cli
-  metanorma-csd
 
 BUNDLED WITH
    1.17.1
