@@ -9,10 +9,10 @@ image:https://travis-ci.com/CalConnect/csd-patent-policy.svg?branch=master["Buil
 
 This document is available in its rendered forms here:
 
-* https://CalConnect.github.io/csd-patent-policy/[CalConnect Directive: Patent policy (HTML)]
-* https://CalConnect.github.io/csd-patent-policy/csd-patent-policy.pdf[PDF]
-* https://CalConnect.github.io/csd-patent-policy/csd-patent-policy.xml[Metanorma XML]
-* https://CalConnect.github.io/csd-patent-policy/csd-patent-policy.rxl[Relaton XML (Bibliographic item)]
+* https://calconnect.github.io/csd-patent-policy/[CalConnect Directive: Patent policy (HTML)]
+* https://calconnect.github.io/csd-patent-policy/csd-patent-policy.pdf[PDF]
+* https://calconnect.github.io/csd-patent-policy/csd-patent-policy.xml[Metanorma XML]
+* https://calconnect.github.io/csd-patent-policy/csd-patent-policy.rxl[Relaton XML (Bibliographic item)]
 
 Because of all this, there is no need to build the document on your own, but if you wish to do so, this is how it can be done:
 
@@ -20,7 +20,7 @@ Because of all this, there is no need to build the document on your own, but if 
 
 [source,sh]
 ----
-git clone https://gitlab.com/CalConnect/csd-patent-policy/
+git clone https://github.com/CalConnect/csd-patent-policy/
 ----
 
 == Installing Build Tools
