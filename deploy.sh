@@ -50,9 +50,6 @@ main() {
 
   # Now let's go have some fun with the cloned repo
   pushd $DEST_DIR
-  echo "Directory is now $(pwd)"
-  ls -l
-
   git config user.name "Travis CI"
   git config user.email "$COMMIT_AUTHOR_EMAIL"
 
