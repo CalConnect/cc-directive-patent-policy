@@ -1,0 +1,43 @@
+<bibdata type="standard">
+<title language="en" format="text/plain">CalConnect Directive: Patent policy</title>
+<docidentifier type="csd">CC/DIR 10003:2019</docidentifier>
+<docnumber>10003</docnumber>
+<date type="published">
+<on>2019-01-18</on>
+</date>
+<contributor>
+<role type="author"/>
+<organization>
+<name>CalConnect</name>
+</organization>
+</contributor>
+<contributor>
+<role type="publisher"/>
+<organization>
+<name>CalConnect</name>
+</organization>
+</contributor>
+<edition>1</edition>
+<version>
+<revision-date>2019-01-18</revision-date>
+</version>
+<language>en</language>
+<script>Latn</script>
+<status>
+<stage>published</stage>
+</status>
+<copyright>
+<from>2019</from>
+<owner>
+<organization>
+<name>CalConnect</name>
+</organization>
+</owner>
+</copyright>
+<ext>
+<doctype>directive</doctype>
+<editorialgroup>
+<technical-committee>PUBLISH</technical-committee>
+</editorialgroup>
+</ext>
+</bibdata>
