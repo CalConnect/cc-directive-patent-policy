@@ -4,5 +4,5 @@ metanorma:
     email: "ci@metanorma.org"
 relaton:
   collection:
-    name: Calendar abuse
+    name: TC-PUBLISH
     organization: CalConnect
