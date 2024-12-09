@@ -11,8 +11,7 @@
 :script: Latn
 :technical-committee: PUBLISH
 :imagesdir: images
-:docfile: cc-10003.adoc
-:mn-document-class: csd
+:mn-document-class: cc
 :mn-output-extensions: xml,html,pdf
 :local-cache-only:
 :data-uri-image:
