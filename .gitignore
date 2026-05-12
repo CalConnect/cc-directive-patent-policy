@@ -1,12 +1,33 @@
+
+!sources/**/*.xml
+# Deploy key
+# Output files
+*.abort
+*.doc
+*.err
+*.html
+*.pdf
+*.rxl
+*.swp
+*.tmp.xml
+*.xml
+*_files/
+*_images/
 .DS_Store
+.bundle/
+.idea/
 .swp
 .tmp.xml
-
-# Output files
-csd-*.html
+.vscode/
+Gemfile.lock
+_site/
 csd-*.doc
+csd-*.html
 csd-*.xml
 csd-*_files
-
-# Deploy key
 deploy_key
+deploy_key.enc
+deploy_key.pub
+documents/
+published/
+relaton/
