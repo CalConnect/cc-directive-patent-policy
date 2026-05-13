@@ -1,5 +1,5 @@
-# .metanorma/channels.yml — cc-directive-patent-policy
+# .metanorma/channels.yml — cc-patent-policy
 
 channels:
   - name: public/directives
-    description: "CalConnect documents from cc-directive-patent-policy"
+    description: "CalConnect documents from cc-patent-policy"
