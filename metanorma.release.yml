@@ -1,2 +1,5 @@
+# metanorma.release.yml — cc-directive-patent-policy
+
 documents:
-  - source: sources/cc-10003.adoc
+  - pattern: "cc-*"
+    channels: [public/directives]
