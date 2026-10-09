@@ -17,6 +17,12 @@
 :data-uri-image:
 
 include::sections/00-foreword.adoc[]
+
+[abstract]
+== Abstract
+
+This document provides the CalConnect patent policy, which governs all standardization deliverables developed through the CalConnect standardization process. The policy is identical in content to the ISO/IEC patent policy, except that entity names such as ISO, IEC, ITU-T and ITU-R are changed to CalConnect, and deliverables and processes pertaining to those entities are changed to their CalConnect counterparts. Detailed arrangements arising from patents (licensing, royalties, etc.) are left to the parties concerned.
+
 include::sections/00-intro.adoc[]
 
 include::sections/01-scope.adoc[]
