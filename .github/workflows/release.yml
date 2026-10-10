@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   release:
-    uses: actions-mn/.github/.github/workflows/metanorma-release.yml@v1
+    uses: actions-mn/.github/.github/workflows/metanorma-release.yml@main
     with:
       default-visibility: private
     secrets: inherit
